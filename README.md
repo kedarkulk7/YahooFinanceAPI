@@ -2,12 +2,6 @@
 This provides API to fetch historical data from Yahoo. 
 
 # Usage
-package yahoo.finance.api;
-
-import java.util.Date;
-
-import org.json.JSONArray;
-import org.json.JSONObject;
 
 public class Test {
 
