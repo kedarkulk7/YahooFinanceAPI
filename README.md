@@ -1,3 +1,5 @@
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.kedarkulk7/yahooFinanceAPI/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.kedarkulk7/yahooFinanceAPI)
+
 # YahooFinanceAPI
 This provides API to fetch historical data from Yahoo. 
 
